@@ -1,3 +1,3 @@
 # StatefullTimer-React
 
-![Screenshot](Home.png)
+![Screenshot](Home.jpg)
