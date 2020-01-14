@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 400px;
+  margin: 50px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  background-image: url(phone.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+
+.btn{
+  padding: 10px;
+}

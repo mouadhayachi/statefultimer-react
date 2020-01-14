@@ -1,2 +1,3 @@
-# statefultimer-react
-Stateful Timer React
+# StatefullTimer-React
+
+![Screenshot](Home.png)
